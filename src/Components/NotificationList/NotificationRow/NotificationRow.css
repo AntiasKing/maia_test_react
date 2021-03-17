@@ -1,0 +1,4 @@
+.notification-row-msg > p {
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
